@@ -1,1 +1,2 @@
-﻿# Projec: ML Django MetalMind2.0
+﻿# Project: ML Django MetalMind2.0
+
