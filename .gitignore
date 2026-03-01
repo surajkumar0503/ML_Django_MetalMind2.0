@@ -1,0 +1,14 @@
+.env.production.local
+.env
+note.txt
+
+venv310/
+__pycache__/
+*.pyc
+staticfiles/
+media/
+*.sqlite3
+*.log
+Dockerfile.dev
+node_modules/
+.DS_Store
